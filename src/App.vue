@@ -2,10 +2,13 @@
 </script>
 
 <template>
-  <div>
+  <div class="app-v">
     kaimotest
   </div>
 </template>
 
 <style scoped>
+.app-v {
+    display: flex;
+}
 </style>
